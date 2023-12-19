@@ -1,4 +1,4 @@
-import '../styles/globals.css'
+import '../../public/styles/globals.css'
 import Layout from "../components/Layout";
 import {ThemeProvider} from "next-themes";
 
